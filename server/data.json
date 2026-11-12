@@ -1,0 +1,345 @@
+{
+  "users": [
+    {
+      "id": "f4c4eb6b-dcc0-4c9e-ac05-7f872a153c97",
+      "username": "Risasosa",
+      "salt": "25212c770d08aa21c6fbf820e9c87058",
+      "hash": "6ae1528f5f6c5adb14f5cc14e787addff770689509d29055cff6fcc3444760940713f439f9ee72eb52ecf6b18b3b5bf74729c7bfb994e49ddca9bd774a5c8049"
+    },
+    {
+      "id": "5fee7d9f-6703-4a83-b40b-38309fa83703",
+      "username": "Rikys",
+      "salt": "a34d92ae726d419e790679cbeb3a715f",
+      "hash": "bbfc2c67583b1682d0eb64f5184f9afd7f6cb497e4697ec4c4e36af7dd238bb15e9d229f70f4aaafaa0dc18a6017698296437cdd2f7be91c92ec194ecfe6cf51"
+    }
+  ],
+  "sessions": {
+    "14e14e91c36c0a19101213145bbd800dfebc7321bedc8f4b586fbf95710f10d5": "f4c4eb6b-dcc0-4c9e-ac05-7f872a153c97",
+    "d54950601e6bce4df85752707a8aaef16974514911c010ef5b6cad5f735e13aa": "5fee7d9f-6703-4a83-b40b-38309fa83703"
+  },
+  "data": {
+    "f4c4eb6b-dcc0-4c9e-ac05-7f872a153c97": {
+      "playlists": [],
+      "history": [
+        {
+          "id": "tracks-id-79580650",
+          "title": "Беспонтовый пирожок",
+          "artist": "Гражданская Оборона",
+          "cover": "https://new.zvukofon.com/cover/8e4/4c3/208243.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F799787477%2FGrazhdanskaya_Oborona_-_Bespontovyjj_pirozhok_(musportal.org).mp3",
+          "duration": 191,
+          "playedAt": "2026-11-11T18:22:26.745Z"
+        },
+        {
+          "id": "tracks-id-50884176",
+          "title": "Крепчаем",
+          "artist": "Гражданская оборона",
+          "cover": "https://new.zvukofon.com/covers/a/670/dc6/275928_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1863343795%2F128%2FGrazhdanskaya_oborona_-_Krepchaem_(muz.zvukofon.com).mp3",
+          "duration": 182,
+          "playedAt": "2026-11-11T18:22:01.759Z"
+        },
+        {
+          "id": "tracks-id-47993910",
+          "title": "Все идет по плану",
+          "artist": "Гражданская оборона",
+          "cover": "https://new.zvukofon.com/covers/a/ac4/e36/30202_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1596870665%2F128%2FGrazhdanskaya_oborona_-_Vse_idet_po_planu_(muz.zvukofon.com).mp3",
+          "duration": 240,
+          "playedAt": "2026-11-11T18:22:00.639Z"
+        },
+        {
+          "id": "tracks-id-80186934",
+          "title": "Всё идёт по плану",
+          "artist": "Гражданская Оборона",
+          "cover": "https://new.zvukofon.com/cover/29e/954/407379.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F988861961%2F128%2FGrazhdanskaya_Oborona_-_Vsjo_idjot_po_planu_(muz.zvukofon.com).mp3",
+          "duration": 299,
+          "playedAt": "2026-11-11T18:21:55.579Z"
+        },
+        {
+          "id": "tracks-id-50501194",
+          "title": "Русское поле экспериментов",
+          "artist": "Гражданская оборона",
+          "cover": "https://new.zvukofon.com/covers/a/bcc/0ec/264313_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1849877877%2F128%2FGrazhdanskaya_oborona_-_Russkoe_pole_jeksperimentov_(muz.zvukofon.com).mp3",
+          "duration": 854,
+          "playedAt": "2026-11-11T18:21:52.296Z"
+        },
+        {
+          "id": "tracks-id-50501161",
+          "title": "Всё идёт по плану",
+          "artist": "Гражданская оборона",
+          "cover": "https://new.zvukofon.com/covers/a/bcc/0ec/264313_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1863287732%2F128%2FGrazhdanskaya_oborona_-_Vsjo_idjot_po_planu_(muz.zvukofon.com).mp3",
+          "duration": 299,
+          "playedAt": "2026-11-11T18:21:47.880Z"
+        },
+        {
+          "id": "tracks-id-68516960",
+          "title": "Экзистенциальное поражение",
+          "artist": "Ночные грузчики",
+          "cover": "https://new.zvukofon.com/covers/a/d95/ecc/597835_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F154980003%2F128%2FNochnye_gruzchiki_-_JEkzistencialnoe_porazhenie_(muz.zvukofon.com).mp3",
+          "duration": 224,
+          "playedAt": "2026-11-11T18:20:55.447Z"
+        },
+        {
+          "id": "tracks-id-47992253",
+          "title": "Туман",
+          "artist": "Сектор Газа",
+          "cover": "https://new.zvukofon.com/covers/a/7dc/333/4124_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F777073056%2F128%2FSektor_Gaza_-_Tuman_(muz.zvukofon.com).mp3",
+          "duration": 223,
+          "playedAt": "2026-11-11T18:19:52.892Z"
+        },
+        {
+          "id": "tracks-id-76632457",
+          "title": "SPECIALZ",
+          "artist": "King Gnu",
+          "cover": "https://new.zvukofon.com/cover/728/240/38377.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1637444180%2F128%2FKing_Gnu_-_SPECIALZ_(muz.zvukofon.com).mp3",
+          "duration": 239,
+          "playedAt": "2026-11-11T18:16:02.729Z"
+        },
+        {
+          "id": "tracks-id-74231354",
+          "title": "что тебе необходимо?",
+          "artist": "ПОЛМАТЕРИ",
+          "cover": "https://new.zvukofon.com/covers/a/6c9/783/721914_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1466851205%2F128%2FPOLMATERI_-_chto_tebe_neobkhodimo_(muz.zvukofon.com).mp3",
+          "duration": 171,
+          "playedAt": "2026-11-11T18:14:33.413Z"
+        },
+        {
+          "id": "tracks-id-78995400",
+          "title": "кхм-кхм",
+          "artist": "ПОЛМАТЕРИ",
+          "cover": "https://new.zvukofon.com/covers/a/182/86f/866692_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F960605755%2F128%2FPOLMATERI_-_kkhm-kkhm_(muz.zvukofon.com).mp3",
+          "duration": 122,
+          "playedAt": "2026-11-11T18:14:28.181Z"
+        },
+        {
+          "id": "tracks-id-66082567",
+          "title": "Я дебил",
+          "artist": "ПОЛМАТЕРИ",
+          "cover": "https://new.zvukofon.com/covers/a/564/314/572587_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F239856410%2F128%2FPOLMATERI_-_YA_debil_(muz.zvukofon.com).mp3",
+          "duration": 135,
+          "playedAt": "2026-11-11T18:05:33.543Z"
+        },
+        {
+          "id": "tracks-id-76814879",
+          "title": "номер твоей карты",
+          "artist": "ПОЛМАТЕРИ",
+          "cover": "https://new.zvukofon.com/covers/a/139/78f/794500_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1722057986%2F128%2FPOLMATERI_-_nomer_tvoejj_karty_(muz.zvukofon.com).mp3",
+          "duration": 126,
+          "playedAt": "2026-11-11T18:05:25.624Z"
+        },
+        {
+          "id": "tracks-id-79493827",
+          "title": "Who's Ready for Tomorrow",
+          "artist": "Rat Boy",
+          "cover": "https://new.zvukofon.com/cover/528/041/178657.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1716398046%2FRat_Boy_-_Whos_Ready_for_Tomorrow_(musportal.org).mp3",
+          "duration": 116,
+          "playedAt": "2026-11-11T18:04:58.775Z"
+        },
+        {
+          "id": "tracks-id-72017414",
+          "title": "Who's Ready for Tomorrow",
+          "artist": "Rat Boy, IBDY",
+          "cover": "https://new.zvukofon.com/covers/a/f1f/ac7/638953_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F635323449%2F128%2FRat_Boy_IBDY_-_Whos_Ready_for_Tomorrow_(muz.zvukofon.com).mp3",
+          "duration": 116,
+          "playedAt": "2026-11-11T18:03:50.769Z"
+        },
+        {
+          "id": "tracks-id-81988047",
+          "title": "Cyberpunk Edgerunners (WHO'S READY FOR TOMORROW)",
+          "artist": "KyotoJam",
+          "cover": "https://new.zvukofon.com/cover/d2f/fb7/1214521.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1910067026%2FKyotoJam_-_Cyberpunk_Edgerunners_WHOS_READY_FOR_TOMORROW_(musportal.org).mp3",
+          "duration": 201,
+          "playedAt": "2026-11-11T18:03:41.104Z"
+        },
+        {
+          "id": "tracks-id-82686169",
+          "title": "Who's Ready for Tomorrow? (From \"Cyberpunk 2077\")",
+          "artist": "Arcade Player",
+          "cover": "https://new.zvukofon.com/cover/129/814/2313890.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F721670916%2FArcade_Player_-_Whos_Ready_for_Tomorrow_From_Cyberpunk_2077_(musportal.org).mp3",
+          "duration": 111,
+          "playedAt": "2026-11-11T18:03:39.393Z"
+        },
+        {
+          "id": "tracks-id-81988047",
+          "title": "Cyberpunk Edgerunners (WHO'S READY FOR TOMORROW)",
+          "artist": "KyotoJam",
+          "cover": "https://new.zvukofon.com/cover/d2f/fb7/1214521.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1910067026%2FKyotoJam_-_Cyberpunk_Edgerunners_WHOS_READY_FOR_TOMORROW_(musportal.org).mp3",
+          "duration": 201,
+          "playedAt": "2026-11-11T18:03:37.576Z"
+        },
+        {
+          "id": "tracks-id-81039920",
+          "title": "Who's Ready for Tomorrow? (From \"Cyberpunk 2077\") (8-Bit Rat Boy & IBDY Emulation)",
+          "artist": "8-Bit Arcade",
+          "cover": "https://new.zvukofon.com/cover/67d/290/781794.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1315290835%2F8-Bit_Arcade_-_Whos_Ready_for_Tomorrow_From_Cyberpunk_2077_8-Bit_Rat_Boy_IBDY_Emulation_(musportal.org).mp3",
+          "duration": 112,
+          "playedAt": "2026-11-11T18:03:33.864Z"
+        },
+        {
+          "id": "tracks-id-80907988",
+          "title": "Who's Ready for Tomorrow (From \"Cyberpunk: Edgerunners\" - Piano Version)",
+          "artist": "Ru's Piano",
+          "cover": "https://new.zvukofon.com/cover/42d/a07/722386.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F754972591%2FRus_Piano_-_Whos_Ready_for_Tomorrow_From_Cyberpunk_Edgerunners_-_Piano_Version_(musportal.org).mp3",
+          "duration": 122,
+          "playedAt": "2026-11-11T18:03:29.248Z"
+        },
+        {
+          "id": "tracks-id-79493827",
+          "title": "Who's Ready for Tomorrow",
+          "artist": "Rat Boy",
+          "cover": "https://new.zvukofon.com/cover/528/041/178657.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1716398046%2FRat_Boy_-_Whos_Ready_for_Tomorrow_(musportal.org).mp3",
+          "duration": 116,
+          "playedAt": "2026-11-11T18:03:27.290Z"
+        },
+        {
+          "id": "tracks-id-72017414",
+          "title": "Who's Ready for Tomorrow",
+          "artist": "Rat Boy, IBDY",
+          "cover": "https://new.zvukofon.com/covers/a/f1f/ac7/638953_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F635323449%2F128%2FRat_Boy_IBDY_-_Whos_Ready_for_Tomorrow_(muz.zvukofon.com).mp3",
+          "duration": 116,
+          "playedAt": "2026-11-11T17:55:45.241Z"
+        },
+        {
+          "id": "tracks-id-80907988",
+          "title": "Who's Ready for Tomorrow (From \"Cyberpunk: Edgerunners\" - Piano Version)",
+          "artist": "Ru's Piano",
+          "cover": "https://new.zvukofon.com/cover/42d/a07/722386.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F754972591%2FRus_Piano_-_Whos_Ready_for_Tomorrow_From_Cyberpunk_Edgerunners_-_Piano_Version_(musportal.org).mp3",
+          "duration": 122,
+          "playedAt": "2026-11-11T17:55:43.881Z"
+        },
+        {
+          "id": "tracks-id-80907988",
+          "title": "Who's Ready for Tomorrow (From \"Cyberpunk: Edgerunners\" - Piano Version)",
+          "artist": "Ru's Piano",
+          "cover": "https://new.zvukofon.com/cover/42d/a07/722386.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F754972591%2FRus_Piano_-_Whos_Ready_for_Tomorrow_From_Cyberpunk_Edgerunners_-_Piano_Version_(musportal.org).mp3",
+          "duration": 122,
+          "playedAt": "2026-11-11T17:55:43.129Z"
+        },
+        {
+          "id": "tracks-id-72017414",
+          "title": "Who's Ready for Tomorrow",
+          "artist": "Rat Boy, IBDY",
+          "cover": "https://new.zvukofon.com/covers/a/f1f/ac7/638953_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F635323449%2F128%2FRat_Boy_IBDY_-_Whos_Ready_for_Tomorrow_(muz.zvukofon.com).mp3",
+          "duration": 116,
+          "playedAt": "2026-11-11T17:55:00.883Z"
+        },
+        {
+          "id": "tracks-id-81217867",
+          "title": "AIZO (from Jujutsu Kaisen)",
+          "artist": "Little V.",
+          "cover": "https://new.zvukofon.com/cover/7e8/c69/867073.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F589829718%2FLittle_V_-_AIZO_from_Jujutsu_Kaisen_(musportal.org).mp3",
+          "duration": 208,
+          "playedAt": "2026-11-11T17:54:33.150Z"
+        },
+        {
+          "id": "tracks-id-80629082",
+          "title": "AIZO",
+          "artist": "King Gnu",
+          "cover": "https://new.zvukofon.com/cover/9ad/756/600507.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1168710245%2F128%2FKing_Gnu_-_AIZO_(muz.zvukofon.com).mp3",
+          "duration": 216,
+          "playedAt": "2026-11-11T17:53:44.336Z"
+        },
+        {
+          "id": "tracks-id-79549290",
+          "title": "Never Fade Away",
+          "artist": "SAMURAI",
+          "cover": "https://new.zvukofon.com/cover/bfc/969/197921.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F455803477%2FSAMURAI_-_Never_Fade_Away_(musportal.org).mp3",
+          "duration": 190,
+          "playedAt": "2026-11-11T17:44:36.941Z"
+        },
+        {
+          "id": "tracks-id-48655363",
+          "title": "American Boy",
+          "artist": "Комбинация",
+          "cover": "https://new.zvukofon.com/covers/a/e00/78b/45925_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F246824094%2F128%2FKombinaciya_-_American_Boy_(muz.zvukofon.com).mp3",
+          "duration": 283,
+          "playedAt": "2026-11-11T17:44:21.293Z"
+        },
+        {
+          "id": "tracks-id-48044261",
+          "title": "Russian Girls",
+          "artist": "Комбинация",
+          "cover": "https://new.zvukofon.com/covers/a/e00/78b/45925_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1218277752%2F128%2FKombinaciya_-_Russian_Girls_(muz.zvukofon.com).mp3",
+          "duration": 329,
+          "playedAt": "2026-11-11T17:44:11.254Z"
+        },
+        {
+          "id": "tracks-id-81982514",
+          "title": "Bad Times",
+          "artist": "Imael Angel",
+          "cover": "https://new.zvukofon.com/cover/774/b5e/1868431.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F198477965%2F128%2FImael_Angel_-_Bad_Times_(muz.zvukofon.com).mp3",
+          "duration": 401,
+          "playedAt": "2026-11-11T17:40:03.404Z"
+        },
+        {
+          "id": "tracks-id-48655363",
+          "title": "American Boy",
+          "artist": "Комбинация",
+          "cover": "https://new.zvukofon.com/covers/a/e00/78b/45925_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F246824094%2F128%2FKombinaciya_-_American_Boy_(muz.zvukofon.com).mp3",
+          "duration": 283,
+          "playedAt": "2026-11-11T17:40:02.915Z"
+        },
+        {
+          "id": "tracks-id-82529312",
+          "title": "Hot Goss",
+          "artist": "Helluva Boss",
+          "cover": "https://new.zvukofon.com/cover/649/cc1/2245045.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F1414141667%2FHelluva_Boss_-_Hot_Goss_(musportal.org).mp3",
+          "duration": 126,
+          "playedAt": "2026-11-11T17:40:01.786Z"
+        },
+        {
+          "id": "tracks-id-48655363",
+          "title": "American Boy",
+          "artist": "Комбинация",
+          "cover": "https://new.zvukofon.com/covers/a/e00/78b/45925_150.jpg",
+          "url": "/api/stream?u=https%3A%2F%2Fnew.zvukofon.com%2Fdl%2F246824094%2F128%2FKombinaciya_-_American_Boy_(muz.zvukofon.com).mp3",
+          "duration": 283,
+          "playedAt": "2026-11-11T17:39:47.340Z"
+        }
+      ],
+      "queries": [
+        "гражданская оборона",
+        "ночные грузчики",
+        "Гроб",
+        "Сектор газа",
+        "King gnu",
+        "полматери",
+        "chess",
+        "never fade away",
+        "who ready for tomorrow",
+        "who ready for tommorow"
+      ]
+    }
+  }
+}
